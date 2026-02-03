@@ -1,4 +1,4 @@
-關於米勒拉賓的質數篩檢法(題目來源:https://zerojudge.tw/ShowProblem?problemid=a121)
+```關於米勒拉賓的質數篩檢法(題目來源:https://zerojudge.tw/ShowProblem?problemid=a121)```
 
 
 來源:費馬小定理
