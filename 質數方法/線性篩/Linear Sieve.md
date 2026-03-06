@@ -1,6 +1,7 @@
 # 線性篩的實作原理
 
 (題目來源:https://zerojudge.tw/ShowProblem?problemid=d117)
+
 原理:整數唯一分解定理
 
 任何大於1的自然數，其可以被質數組合而成，且質數的類型和數量不變。
